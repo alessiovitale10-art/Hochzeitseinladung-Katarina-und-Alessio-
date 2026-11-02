@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Katarina e Alessio//Matrimonio 2027//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Matrimonio Katarina & Alessio
+BEGIN:VEVENT
+UID:matrimonio-20270805@katarina-alessio
+DTSTAMP:20261102T180000Z
+DTSTART:20270805T134000Z
+DTEND:20270805T215900Z
+SUMMARY:Matrimonio Katarina & Alessio
+LOCATION:Chiesa di Santa Maria Maddalena\, Piazza XX Settembre\, 70042 Mola di Bari
+DESCRIPTION:Arrivo alle 15:40\, la cerimonia inizia alle 16:00. A seguire festa alla Tenuta Pinto\, Via Chiancarelle 13\, Mola di Bari.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Matrimonio Katarina & Alessio
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
