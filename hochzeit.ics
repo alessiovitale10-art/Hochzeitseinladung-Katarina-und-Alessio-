@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Katarina und Alessio//Hochzeit 2027//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hochzeit Katarina & Alessio
+BEGIN:VEVENT
+UID:prenight-20270804@katarina-alessio
+DTSTAMP:20261102T100000Z
+DTSTART:20270804T170000Z
+DTEND:20270804T213000Z
+SUMMARY:Prenight Katarina & Alessio
+LOCATION:Mola di Bari (genauer Ort folgt)
+DESCRIPTION:Gemütlicher Abend mit Essen und Getränken ab 19:00 Uhr. Der genaue Ort steht bald auf unserer Hochzeitsseite.
+END:VEVENT
+BEGIN:VEVENT
+UID:trauung-20270805@katarina-alessio
+DTSTAMP:20261102T100000Z
+DTSTART:20270805T134000Z
+DTEND:20270805T230000Z
+SUMMARY:Kirchliche Trauung Katarina & Alessio
+LOCATION:Chiesa di Santa Maria Maddalena\, Piazza XX Settembre\, 70042 Mola di Bari\, Italien
+DESCRIPTION:Bitte um 15:40 Uhr da sein\, die Trauung beginnt um 16:00 Uhr. Danach feiern wir auf der Tenuta Pinto\, Via Chiancarelle 13\, Mola di Bari.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kirchliche Trauung Katarina & Alessio
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
