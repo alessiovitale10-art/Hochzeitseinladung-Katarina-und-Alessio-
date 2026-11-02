@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Katarina und Alessio//Vjencanje 2027//BS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Vjenčanje Katarina & Alessio
+BEGIN:VEVENT
+UID:prenight-20270804-bs@katarina-alessio
+DTSTAMP:20261102T100000Z
+DTSTART:20270804T170000Z
+DTEND:20270804T213000Z
+SUMMARY:Prenight Katarina & Alessio
+LOCATION:Mola di Bari (tačno mjesto javljamo naknadno)
+DESCRIPTION:Opušteno druženje uz hranu i piće od 19:00. Tačno mjesto uskoro na našoj stranici.
+END:VEVENT
+BEGIN:VEVENT
+UID:vjencanje-20270805-bs@katarina-alessio
+DTSTAMP:20261102T100000Z
+DTSTART:20270805T134000Z
+DTEND:20270805T215900Z
+SUMMARY:Vjenčanje Katarina & Alessio
+LOCATION:Chiesa di Santa Maria Maddalena\, Piazza XX Settembre\, 70042 Mola di Bari\, Italija
+DESCRIPTION:Molimo budite tu u 15:40\, vjenčanje počinje u 16:00. Nakon toga slavimo na Tenuti Pinto\, Via Chiancarelle 13\, Mola di Bari.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Vjenčanje Katarina & Alessio
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
